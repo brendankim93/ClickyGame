@@ -1,0 +1,11 @@
+.header {
+    color: black;
+    background-image: url("https://images8.alphacoders.com/442/thumb-1920-442432.jpg");
+    background-repeat: no-repeat;
+    height: 400px;
+    padding-top: 80px;
+}
+  
+.instructions {
+    font-weight: bold;
+}
