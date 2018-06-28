@@ -26,3 +26,17 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+li {
+  display: inline;
+  font-size: 30px;
+  padding: 80px;
+  margin-left: 50px;
+  color: white;
+}
+
+ul {
+  padding: 50px;
+  background-color: blue;
+  box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+}
